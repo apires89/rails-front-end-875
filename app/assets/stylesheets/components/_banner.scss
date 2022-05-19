@@ -1,0 +1,16 @@
+.banner {
+  background-image: asset-url('background.jpg');
+  background-size: cover;
+  height: 300px;
+  width: 250px;
+  background-position: bottom;
+}
+
+.home-banner {
+  background-image: url('https://cdn.britannica.com/67/19367-050-885866B4/Valley-Taurus-Mountains-Turkey.jpg');
+  background-size: cover;
+  height: 100vh;
+  color: #eee;
+  text-align: center;
+  padding-top: 40vh;
+}
